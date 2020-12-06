@@ -1,0 +1,33 @@
+.bannerImg {
+  background: url('./space-photo.jpeg') no-repeat center;
+  background-size: cover;
+  height: 300px; 
+  width: 100%;
+
+  margin-bottom: 3em;
+  display: flex;
+  justify-content: center;
+}
+
+.bannerContent {
+  width: 90%;
+}
+
+.logo {
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.logoWrapper {
+  padding: 16px 0;
+}
+
+.bannerHead {
+  margin: 0;
+  text-align: center;
+  font-size: 2em;
+  color: white;
+  font-weight: 500;
+  text-shadow: 0 1px 1px black;
+}
